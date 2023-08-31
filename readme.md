@@ -80,6 +80,16 @@ Imagem do arquivo com as variáveis configuradas
 
 <img src="./assets/img/arquivo_env.png">
 
+Criar arquivo na raiz do projeto chamado .gitignore com termial
+```
+touch .gitignore
+```
+Abrir o arquivo no VSCode e digitar o conteúdo abaixo, conforme o comentário
+```
+node_modules
+.env
+```
+
 Agora vamos criar uma pasta 'src' na raiz do no projeto e depois de criar a pasta, vamos criar um arquivo dentro dela chamado app.js e digitar o código a seguir:
 ```
 // Módulo de configuração da webapi, módulo de aplicação
