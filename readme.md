@@ -32,7 +32,7 @@ create table users(
 )
 ```
 ## Criando a API
-Criar uma pasta com terminal para guardar os arquivos do seu projeto Node.js
+Abrir o gitBash em pasta de sua preferencia e criar uma pasta com terminal para guardar os arquivos do seu projeto Node.js
 ```
 mkdir projetoFinal
 ```
@@ -61,7 +61,11 @@ Criar arquivo na raiz do projeto chamado .env com termial
 ```
 touch .env
 ```
-Abrir o arquivo no VSCode e digitar o conteúdo abaixo, conforme o comentário
+Abrir o projeto no VSCode
+```
+code .
+```
+Abrir o arquivo .env e digitar o conteúdo abaixo, conforme os comentários
 ```
 # Definir a porta do servidor. Ex: 3000
 PORT = 
