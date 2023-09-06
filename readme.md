@@ -445,7 +445,5 @@ Agora que estamos com o servidor express rodando, o banco de dados conectado, os
 
 E com isso finalizamos o CRUD da nossa API Node.js que usa MySQL como persistência de dados.
 
-Repositório do código no GitHub
-* https://github.com/andreivupt/apiNodeFull
 
 
